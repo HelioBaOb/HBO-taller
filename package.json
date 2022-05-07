@@ -1,0 +1,22 @@
+{
+  "name": "dynamoUsers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "aws-sdk": "^2.1111.0",
+    "body-parser":"1.20.0",
+    "serverless-http":"^3.0.1"
+
+  },
+  "devDependencies": {
+    "serverless-offline": "^8.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
